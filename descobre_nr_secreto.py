@@ -26,7 +26,6 @@ def descobre_nr_secreto():
 
 
 
-
 import sys
 
 
